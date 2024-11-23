@@ -36,9 +36,6 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 2. Navigate to index.html file in root directory or index.html file in html folder.
 3. double click or open in any browser to launch the website
    
-## Contributing
-
-If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
 
 ## Keywords:
 - Ecommerce website
